@@ -6,4 +6,5 @@
   :repositories {"jaudiotagger-repository"
                  {:url "https://dl.bintray.com/ijabz/maven"}}
   :dependencies [[org.clojure/clojure "1.10.1"]
+                 [org.clojure/data.csv "1.0.0"]
                  [net.jthink/jaudiotagger "2.2.5"]])
